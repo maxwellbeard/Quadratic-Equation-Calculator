@@ -1,4 +1,4 @@
-# Quadratic-Equation-Calculator
+# Quadratic Equation Calculator
 
 A calculator that can calculate the vertex and x-intercepts of a quadratic equation.
 
