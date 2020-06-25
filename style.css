@@ -1,0 +1,32 @@
+body{
+    background-color: #eee;
+
+}
+form{
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+h1{
+    margin-top: 0px;
+}
+input{
+    margin: 10px;
+    padding: 4px;
+}
+.success{
+    background-color: lightgreen;
+    border-color: lightgreen;
+}
+.error{
+    background-color: pink;
+    border-color: crimson;
+}
+.feedback{
+    font-size: x-large;
+    text-align: center;
+}
+.variables{
+    width: 30px;
+}
